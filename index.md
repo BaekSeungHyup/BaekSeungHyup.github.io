@@ -24,5 +24,5 @@ _Jun. 2025 – Dec. 2025 (Expected)_ -->
 
 ## Publications
 
-- **Stay in you lane: Role Specific Queries with Overlap Suppression Loss for Dense Video Captioning**
+- **Stay in your lane: Role Specific Queries with Overlap Suppression Loss for Dense Video Captioning**
 _CVPR 2026 (under review)_
