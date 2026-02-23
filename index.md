@@ -27,7 +27,7 @@ _Jun. 2025 – Dec. 2025 (Expected)_ -->
 ## Publications
 
 - **Stay in your lane: Role Specific Queries with Overlap Suppression Loss for Dense Video Captioning**  
-  Baek Seung Hyup*, Jimin Lee*, Hyeongkeun Lee, Jae Won Cho  
+  Baek Seung Hyup\*, Jimin Lee\*, Hyeongkeun Lee, Jae Won Cho  
   _CVPR 2026_
 
 \* Equal contribution
